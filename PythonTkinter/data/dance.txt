@@ -1,0 +1,9 @@
+Name = rahul,Contact = 8302644423,Location = jodhpur 
+Name = anurag paliwal,Contact = 9460608228,Location = Pali 
+Name = shyam,Contact = 7568946868,Location = pali 
+Name = Harish sain,Contact = 7737916416,Location = Pali 
+Name = Naman,Contact = 8690909415,Location = Pali 
+Name = Rohit,Contact = 6377052837,Location = Pali 
+Name = Mahesh,Contact = 9929819676,Location = Pali 
+Name = Vikram Sain,Contact = 9829094986,Location = Jaisalmer 
+Name = Hemant,Contact = 6376685290,Location = Pali 
